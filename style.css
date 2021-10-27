@@ -25,6 +25,20 @@ h1{
 
 div{
 text-align:right;
-
 }
-
+.box{
+    height:500px;
+    width:750px;
+    background-color:aquamarine;
+    text-align:center;
+    margin:0 auto;
+}
+li{
+    text-align:left;
+}
+h2{
+    font-size:30px;
+}
+input{
+    background-color:white;
+}
